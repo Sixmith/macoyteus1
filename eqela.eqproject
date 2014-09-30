@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# macoyteus1
+#
+
+projectname: macoyteus1
+vendorid: com.macoysamples
+mainmodule: com.macoysamples.macoyteus1
